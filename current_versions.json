@@ -1,4 +1,7 @@
 [{
   "item": "https://github.com/agardnerit/dummyrepo1",
   "current_version": "0.0.1"
+},{
+  "item": "https://github.com/agardnerit/dummyrepo3",
+  "current_version": "0.0.1"
 }]
