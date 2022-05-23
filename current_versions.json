@@ -1,7 +1,14 @@
 [{
+  "product": "KIND_KEPTN",
+  "item": "",
+  "current_version": "0.0.1"
+},
+  {
+  "product": "KEPTN",
   "item": "https://github.com/agardnerit/dummyrepo1",
   "current_version": "0.0.1"
 },{
+  "product": "JOB_EXECUTOR_SERVICE",
   "item": "https://github.com/agardnerit/dummyrepo3",
   "current_version": "0.0.1"
 }]
